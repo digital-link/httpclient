@@ -1,5 +1,5 @@
 {
-    "name": "payment/httpclient",
+    "name": "digital-link/httpclient",
     "type": "interface",
     "description": "http client interface",
     "keywords": ["http client"],
